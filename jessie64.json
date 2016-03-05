@@ -14,7 +14,7 @@
       "identity_endpoint": "https://identity.api.rackspacecloud.com/v2.0",
       "ssh_username": "root",
       "image_name": "Test Packer Image",
-      "source_image": "1c84a15e-fce7-48b4-b23d-49a477588b29",
+      "source_image": "ENTER_YOUR_IMAGE_ID_HERE",
       "flavor": "2"
     },
     {
