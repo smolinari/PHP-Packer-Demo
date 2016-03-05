@@ -1,2 +1,3 @@
 # PHP-Packer-Demo
-The demonstration package for the Sitepoint article on Packer
+
+This is the support repo for the Sitepoint article on Packer.
